@@ -9,4 +9,4 @@ FCITX5皮肤
     中添加
         PreeditInApplication=True
 
-注意修改配置时要把fcitx5退出，否则会把修改内容。
+注意修改配置时要把fcitx5退出，否则会把修改内容覆盖。
