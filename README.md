@@ -1,5 +1,5 @@
-###Fcitx5-Metro
-
+Fcitx5-Metro
+-
 FCITX5皮肤
 
 把皮肤文件夹放到 ~/.local/share/fcitx5/themes下面
